@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+h3 {
+    margin: auto;
+    margin-top: 50px;
+}
+
+#word {
+    margin: auto;
+    margin-top: 50px;
+    width: 100px;
+    height: 20px;
+}
+
+#button {
+    margin: auto;
+    width: 80px;
+    height: 30px;
+    background-color: rebeccapurple;
+    color: white;
+}
